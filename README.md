@@ -68,6 +68,6 @@ One small bug i am facing on the deployed site is when we complete the payment a
 
 [▶️ Watch Payment issue View Demo (Google Drive)](https://drive.google.com/file/d/1fviBeFkQG0nixP9gjabiOVUArp208K24/preview)
 
-but after completing the payment in the deployed site you will be redirected to the website back but it wont show that you have successfully completed the payment 
+but after completing the payment in the deployed site you will be redirected to the website back but it wont show that you have successfully completed the payment I dont know why is this bug coming 
 
 This bug wont occur if you run this locally on your machine
