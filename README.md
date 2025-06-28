@@ -62,9 +62,6 @@ As you cannot become an admin on the deployed website you have to use your own e
 ## Deployed website link
 
     https://budgetbazaar-1.onrender.com/
-## Caution
-
-One small error we will be facing on the deployed site is when we complete the payment after completing the payment  if you run this locally you will get this 
 
 [▶️ Watch Payment issue View Demo (Google Drive)](https://drive.google.com/file/d/1fviBeFkQG0nixP9gjabiOVUArp208K24/preview)
 
