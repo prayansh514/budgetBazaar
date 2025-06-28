@@ -61,10 +61,6 @@ As you cannot become an admin on the deployed website you have to use your own e
     
 ## Deployed website link
 
-    https://budgetbazaar-1.onrender.com/
+    https://budgetbazaar-1.onrender.com
 
-[▶️ Watch Payment issue View Demo (Google Drive)](https://drive.google.com/file/d/1fviBeFkQG0nixP9gjabiOVUArp208K24/preview)
 
-but after completing the payment in the deployed site you will be redirected to the website back but it wont show that you have successfully completed the payment
-
-This bug wont occur if you run this locally on your machine
