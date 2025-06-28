@@ -64,10 +64,10 @@ As you cannot become an admin on the deployed website you have to use your own e
     https://budgetbazaar-1.onrender.com/
 ## Caution
 
-One small bug i am facing on the deployed site is when we complete the payment after completing the payment if you run this locally you will get this 
+One small error we will be facing on the deployed site is when we complete the payment after completing the payment  if you run this locally you will get this 
 
 [▶️ Watch Payment issue View Demo (Google Drive)](https://drive.google.com/file/d/1fviBeFkQG0nixP9gjabiOVUArp208K24/preview)
 
-but after completing the payment in the deployed site you will be redirected to the website back but it wont show that you have successfully completed the payment I dont know why is this bug coming 
+but after completing the payment in the deployed site you will be redirected to the website back but it wont show that you have successfully completed the payment
 
 This bug wont occur if you run this locally on your machine
