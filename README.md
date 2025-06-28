@@ -65,4 +65,6 @@ As you cannot become an admin on the deployed website you have to use your own e
 
     https://budgetbazaar-1.onrender.com
 
+## Information
 
+As this is a test application please put in the card no during checkout as 4242 4242 4242 4242   and cv as 424
