@@ -71,7 +71,10 @@ here is the demo video of the working deployed website
 
 Incase the above link is showing 502 error or too many requests here is an alternate website where i have deployed the project
 
-    https://budgetbazaar-3.onrender.com/
+    https://budgetbazaar-3.onrender.com
+It maybe the same may happen for this alternate website in that case please wait a bit and then access the website again or you can see the demo video posted above    
+
+    
 
 ## Information
 
