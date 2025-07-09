@@ -57,13 +57,21 @@ As you cannot become an admin on the deployed website you have to use your own e
 
 [▶️ Watch Admin View Demo (Google Drive)](https://drive.google.com/file/d/17KFXWIyqjF8b906VXA8eX1mN2N8PGRhC/preview)
 
+Incase the deployed website is saying bad request or too many requests please wait for some time and try again
 
+here is the demo video of the working deployed website
 
+[▶️ Watch Demo (Google Drive)](https://drive.google.com/file/d/1gYkSSJnvf9oUCadKWiDmvFMcS8_uorSw/preview)
 
     
 ## Deployed website link
 
     https://budgetbazaar-1.onrender.com
+## Alternate Website link
+
+Incase the above link is showing 502 error or too many requests here is an alternate website where i have deployed the project
+
+    https://budgetbazaar-3.onrender.com/
 
 ## Information
 
